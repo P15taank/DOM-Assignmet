@@ -156,7 +156,7 @@
 
 ![Output](./Pic17.png)
 
-<!-- 10. Webiste Name: [Freecodecamp](https://www.freecodecamp.org/)
+10. Webiste Name: [Freecodecamp](https://www.freecodecamp.org/)
 
 ### Topics
 
@@ -173,10 +173,6 @@
 ### Output
 
 ![Output](./Pic19.png)
-
-Code:
-function abc() { document.querySelector(".login-btn-text").style.backgroundColor= "red";}
-document.querySelector(".login-btn-text").addEventListener("mouserover",abc); -->
 
 11. Webiste Name: [realme](https://www.realme.com/in/)
 
