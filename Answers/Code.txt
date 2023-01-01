@@ -1,0 +1,56 @@
+Q1. document.querySelector(
+  ".side-bar .crayons-card .crayons-subtitle-2"
+).innerHTML = "Pratiksha Taank";
+
+document.querySelector(
+  ".sidebar-wrapper .side-bar .crayons-card .color-base-70"
+).innerText = "Web Developer";
+
+Q.3 let a = document.createElement("h3");
+undefined
+a.innerHTML = "My new FAQ";
+'My new FAQ'
+document.querySelector(".accordion-homepage").append(a);
+
+Q.4 document.querySelector(
+  ".hidden-in-member-app .container-infinite .container-text .contact-us .customer-support .one-tel-number"
+).innerText = "6366256689";
+
+Q.5 document.querySelector(".diwali-deals-product-sale-btn").innerHTML = "Check Out";
+
+Q.6 document.querySelector(".searchinput-wrapper___3YrvF").addEventListener("mouseover", (event) => {document.querySelector(".searchinput___19uW0").style.backgroundColor="red";});
+
+Q.8 let arr = document.querySelectorAll("#SIvCob a");
+for (i = 0; i < arr.length; i++) {
+  if (i % 2 == 0) {
+    arr[i].remove();
+  }
+}
+console.log(arr);
+
+Q.9 document.querySelector(".text-color-white").style.color = "red";
+document.querySelector(".text-color-white").style.fontFamily="monospace";
+
+Q.10 function abc() { document.querySelector(".login-btn-text").style.backgroundColor= "red";}
+document.querySelector(".login-btn-text").addEventListener("mouserover",abc);
+
+Q.11 document.querySelector(".icon-logo").style.backgroundImage= "url('https://ineuron.ai/images/ineuron-logo.png')";
+
+Q.12 let create = document.querySelector(".col-xl-4  .btn");
+create.style.background = "blue";
+
+Q.13 document.querySelector(".create_account-content").getElementsByTagName("p")[0].innerHTML = "‘JSBOOTCAMP";
+
+Q.14 document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = "80px"; 
+
+Q.15 document.querySelector(".ps-title").style.textAlign = "right"; 
+
+Q.16 document.querySelector(".section-label_text__OTARC").innerHTML = "Start from scratch";
+
+Q.17 document.querySelector(".buy").innerHTML = new Date();
+
+Q.18 document.querySelector(".p-f03-footer-container").style.background = "orange";
+
+Q.19 console.log(document.getElementsByTagName("img")[0].src);
+
+Q.20document.querySelector(".desc").style.color = "Orange";

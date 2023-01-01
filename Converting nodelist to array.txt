@@ -1,0 +1,9 @@
+let nodelist = document.querySelector(".z4hgWe");
+Array.prototype.slice.call(document.querySelector(".z4hgWe").children);
+for(let i=0;i<=arr.length;i++)
+{
+if(i%2==0)
+{
+document.querySelector(".z4hgWe").remove(arr[i])
+}
+}
