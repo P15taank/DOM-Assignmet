@@ -62,7 +62,7 @@
 
       Change the contact number
 
-### Output -->
+### Output
 ![Output](./Pic7.png)
 
 5. Webiste Name: [Samsung](https://www.samsung.com/in/offer/online/samsung-fest/)
@@ -178,7 +178,7 @@ Code:
 function abc() { document.querySelector(".login-btn-text").style.backgroundColor= "red";}
 document.querySelector(".login-btn-text").addEventListener("mouserover",abc); -->
 
-<!-- 11. Webiste Name: [realme](https://www.realme.com/in/)
+11. Webiste Name: [realme](https://www.realme.com/in/)
 
 ### Topics
 
@@ -197,7 +197,7 @@ document.querySelector(".login-btn-text").addEventListener("mouserover",abc); --
 ![Output](./Pic21.png)
 Code: document.querySelector(".icon-logo").style.backgroundImage= "url('https://ineuron.ai/images/ineuron-logo.png')"; -->
 
-<!-- 12. Webiste Name: [Github](https://github.com/)
+12. Webiste Name: [Github](https://github.com/)
 
 ### Topics
 
@@ -215,7 +215,7 @@ Code: document.querySelector(".icon-logo").style.backgroundImage= "url('https://
 
 ![Output](./Pic23.png) -->
 
-<!-- 13. Webiste Name: [Hackerrank](https://www.hackerrank.com/)
+13. Webiste Name: [Hackerrank](https://www.hackerrank.com/)
 
 ### Topics
 
@@ -234,7 +234,7 @@ Target the top description and change “Matching developers with great companie
 ![Output](./Pic25.png)
 code: document.querySelector(".create_account-content").getElementsByTagName("p")[0].innerHTML = "‘JSBOOTCAMP"; -->
 
-<!-- 14. Webiste Name: [Asus](https://www.asus.com/in/)
+14. Webiste Name: [Asus](https://www.asus.com/in/)
 
 ### Topics
 
@@ -251,9 +251,8 @@ code: document.querySelector(".create_account-content").getElementsByTagName("p"
 ### Output
 
 ![Output](./Pic27.png)
-code: document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = "80px"; -->
 
-<!-- 15. Webiste Name: [Dell](https://www.dell.com/en-in/shop/deals/laptop-deals?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4-XUDMhhVNyHXb3s1gY4ZBzORr_d9Se-buhJwy7asyUe7YdqEA11eEaAt6UEALw_wcB&gclsrc=aw.ds&nclid=BxjBlpBQsX6pjSHh-L8YYSU77EpfXRkG1AGMB5Wbeu386ykspfrPDnfx_DdFau20)
+15. Webiste Name: [Dell](https://www.dell.com/en-in/shop/deals/laptop-deals?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4-XUDMhhVNyHXb3s1gY4ZBzORr_d9Se-buhJwy7asyUe7YdqEA11eEaAt6UEALw_wcB&gclsrc=aw.ds&nclid=BxjBlpBQsX6pjSHh-L8YYSU77EpfXRkG1AGMB5Wbeu386ykspfrPDnfx_DdFau20)
 
 ### Topics
 
@@ -270,9 +269,8 @@ code: document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = "8
 ### Output
 
 ![Output](./Pic29.png)
-code: document.querySelector(".ps-title").style.textAlign = "right"; -->
 
-<!-- 16. Webiste Name: [Vercel](https://vercel.com/)
+16. Webiste Name: [Vercel](https://vercel.com/)
 
 ### Topics
 
@@ -289,9 +287,8 @@ code: document.querySelector(".ps-title").style.textAlign = "right"; -->
 ### Output
 
 ![Output](./Pic31.png)
-Code: document.querySelector(".section-label_text__OTARC").innerHTML = "Start from scratch"; -->
 
-<!-- 17. Webiste Name: [Sony](https://www.sony.co.in/)
+17. Webiste Name: [Sony](https://www.sony.co.in/)
 
 ### Topics
 
@@ -308,9 +305,8 @@ Code: document.querySelector(".section-label_text__OTARC").innerHTML = "Start fr
 ### Output
 
 ![Output](./Pic32.png)
-code: document.querySelector(".buy").innerHTML = new Date(); -->
 
-<!-- 18. Webiste Name: [Philips](https://www.philips.co.in/)
+18. Webiste Name: [Philips](https://www.philips.co.in/)
 
 ### Topics
 
@@ -327,9 +323,7 @@ code: document.querySelector(".buy").innerHTML = new Date(); -->
 ### Output
 
 ![Output](./Pic35.png)
-Code: document.querySelector(".p-f03-footer-container").style.background = "orange"; -->
-
-<!-- 19. Webiste Name: [Canon](https://in.canon/)
+19. Webiste Name: [Canon](https://in.canon/)
 
 ### Topics
 
@@ -346,9 +340,8 @@ Code: document.querySelector(".p-f03-footer-container").style.background = "oran
 ### Output
 
 ![Output](./Pic37.png)
-code: console.log(document.getElementsByTagName("img")[0].src); -->
 
-<!-- 20. Webiste Name: [Oppo](https://www.oppo.com/in/)
+20. Webiste Name: [Oppo](https://www.oppo.com/in/)
 
 ### Topics
 
@@ -364,4 +357,4 @@ code: console.log(document.getElementsByTagName("img")[0].src); -->
 
 ### Output
 
-![Output](./Pic39.png) --> -->
+![Output](./Pic39.png)
